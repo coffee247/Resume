@@ -8,4 +8,4 @@
 ### Drupal Sites developed by James Stallings
   Drupal 7 site for [MonsterClean.com](http://bit.ly/2pP4MqE)
   
-  Drupal [NorfolkJanitorial.com](http://www.norfolkjanitorial.com)
+  Drupal 8 site for [NorfolkJanitorial.com](http://www.norfolkjanitorial.com)
